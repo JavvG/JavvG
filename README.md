@@ -1,13 +1,31 @@
-# 👨‍💻 Ingeniero en Informática en formación
+# Hi, I'm Javier Granero, working under my brand 𝙷✺ᴛʏ.𝙳𝙴𝚅
 
-📍 Desde el interior de Argentina | Explorando el desarrollo web y el diseño UI/UX.
+I'm a software engineering student from Argentina, exploring web development and UI/UX design with a minimalist approach.
 
-🌐 Experiencia en **HTML, CSS** y profundizando en **JavaScript** para crear experiencias web interactivas.
+---
 
-💻 Además, manejo lenguajes como **C, C# y C++**, con los que he trabajado en distintos proyectos académicos y personales. También tengo experiencia en frameworks **.NET Core** hasta **.NET 8**.
+## About Me
 
-🛠 No soy solo un programador, sino un **desarrollador de software**. Trabajo de manera ordenada y detallista, con la capacidad de **analizar, diseñar y ejecutar proyectos** de software de principio a fin.
+- **Location:** Argentina 🇦🇷  
+- **Interests:** Technology, Photography & Design  
+- **Philosophy:** Less is more
 
-💼 Buscando oportunidades freelance para ganar experiencia y crecer en la industria.
+---
 
-💡 Apasionado por la tecnología, la fotografía y el diseño; siempre buscando nuevas formas de combinar estas pasiones en mis proyectos.
+## Skills
+
+- **Web:** HTML, CSS, and deepening in JavaScript to create interactive web experiences.
+- **Programming:** C, C#, C++ (from both academic and personal projects)
+- **Frameworks:** .NET Core to .NET 8
+
+I don't just code—I develop software by analyzing, designing, and executing projects from start to finish with precision.
+
+---
+
+## Looking For
+
+Freelance opportunities to grow and turn creative ideas into real-world solutions.
+
+---
+
+Keep it simple. Keep it real.
